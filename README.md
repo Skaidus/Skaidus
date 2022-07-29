@@ -23,8 +23,6 @@
 ## 📊 My Github Stats
 
 <p align="center">
-    <a href=https://github.com/Skaidus/Skaidus><img src="https://github-readme-stats.vercel.app/api?username=Skaidus&count_private=true&hide_border=true&card_width=300&show_icons=true&theme=tokyonight&hide=["contribs","prs"]"></a>
+    <a href=https://github.com/Skaidus/Skaidus><img src="https://github-readme-stats.vercel.app/api?username=Skaidus&count_private=true&hide_border=true&card_width=300&show_icons=true&theme=tokyonight"></a>
     <a href=https://github.com/Skaidus/Skaidus><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skaidus&layout=compact&hide_border=true&card_width=400&langs_count=10&theme=tokyonight"></a>
 </p>
-
-<a href=https://github.com/Skaidus/Skaidus><img src="https://activity-graph.herokuapp.com/graph?username=Skaidus&theme=react-dark&hide_border=true"></a>
