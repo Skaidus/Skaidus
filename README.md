@@ -3,7 +3,7 @@
 <h1 style="align:center; justify-content:center">Aitor Izuzquiza Gimeno</h1>
 <h3 style="align:center; justify-content:center">Hi there! I'm a Computer Science graduate and Mathematician. I love over-optimizing code to get little or no profit at all. I hate dragons.</h3>
 
-[![Mail Badge](https://img.shields.io/badge/Mail1-9c38d1?style=flat&logo=Gmail&logoColor=white)](mailto:aitor.izuzquiza@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Mail-9c38d1?style=flat&logo=Gmail&logoColor=white)](mailto:aitor.izuzquiza@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-9c38d1?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/aitorizuzquiza)
 
 ## 🔥 My Github Streak
